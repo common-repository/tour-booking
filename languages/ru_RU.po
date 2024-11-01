@@ -1,0 +1,415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tourbooking\n"
+"POT-Creation-Date: 2019-07-04 10:49+0300\n"
+"PO-Revision-Date: 2019-07-04 11:05+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: front/images\n"
+
+#: admin/custom_fields.php:13
+msgid "Price"
+msgstr "Цена"
+
+#: admin/custom_fields.php:22
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: admin/custom_fields.php:24
+msgid "hours"
+msgstr "ч"
+
+#: admin/custom_fields.php:31
+msgid "City"
+msgstr "Город"
+
+#: admin/custom_fields.php:40
+msgid "Transport type"
+msgstr "Транспорт"
+
+#: admin/custom_fields.php:48
+msgid "Start location"
+msgstr "Старт"
+
+#: admin/custom_fields.php:57
+msgid "Finish location"
+msgstr "Финиш"
+
+#: admin/custom_fields.php:75
+msgid "Order"
+msgstr "ПОрядок"
+
+#: admin/custom_fields.php:84
+msgid "Shortcode (copy to page)"
+msgstr "Шорткод (скопировать на страницу)"
+
+#: admin/custom_fields.php:132
+msgid "None"
+msgstr "Нет"
+
+#: admin/custom_fields.php:146
+msgid "Enter your address"
+msgstr "Введите адрес"
+
+#: admin/options_class.php:42
+msgid "Tour Booking Plugin Options"
+msgstr "Параметры плагина Tour Booking"
+
+#: admin/options_class.php:44
+#, php-format
+msgid ""
+"Please set up your Tour Booking settings according to your needs. If you "
+"have any questions, need support or would like to customise the plugin, <a "
+"href='%s'>contact us</a>"
+msgstr ""
+"Настройте параметры бронирования тура в соответствии с вашими потребностями. "
+"Если у вас есть какие-либо вопросы, вам нужна поддержка или вы хотите "
+"настроить плагин, <a href='%s'> свяжитесь с нами </a>"
+
+#: admin/options_class.php:48
+msgid "Tour Booking Settings"
+msgstr "Параметры Tour Booking"
+
+#: admin/templates/options_page.php:82
+msgid "Options"
+msgstr "Опции"
+
+#: admin/templates/options_page.php:86
+msgid "Colors"
+msgstr "Цвета"
+
+#: admin/templates/options_page.php:90
+msgid "Messages"
+msgstr "Сообщения"
+
+#: admin/templates/options_page.php:98 admin/templates/options_page.php:102
+msgid "Save options"
+msgstr "Сохранить опции"
+
+#: admin/templates/options_page.php:109 admin/templates/options_page.php:113
+msgid "Save colors"
+msgstr "Сохранить цвета"
+
+#: admin/templates/options_page.php:120 admin/templates/options_page.php:124
+msgid "Save messages"
+msgstr "Сохранить сообщения"
+
+#: ajax.php:66
+msgid "New booking"
+msgstr "Новое бронирование"
+
+#: front/shortcodes.php:42
+msgid "More"
+msgstr "Больше"
+
+#: front/templates/booking_form.php:69
+msgid "Book this tour"
+msgstr "Забронировать тур"
+
+#: front/templates/single_tour.php:27 front/templates/tour_list_template.php:10
+msgid "hrs"
+msgstr "ч"
+
+#: front/templates/single_tour.php:31 front/templates/single_tour.php:43
+#: front/templates/tour_list_template.php:11
+msgid "From"
+msgstr "От"
+
+#: front/templates/single_tour.php:53
+msgid "To"
+msgstr "До"
+
+#: front/templates/single_tour.php:72
+msgid "Book a tour"
+msgstr "Забронировать тур"
+
+#: front/templates/tour_list_template.php:13
+msgid "Info & Booking"
+msgstr "Забронировать"
+
+#: front/templates/tour_selector.php:29
+msgid "Select city"
+msgstr "Выберите город"
+
+#: front/templates/tour_selector.php:36
+msgid "Select transport"
+msgstr "Выберите транспорт"
+
+#: front/templates/tour_selector.php:43
+msgid "Select tour category"
+msgstr "Выберите категорию"
+
+#: front/templates/tour_selector.php:50
+msgid "Select tour tag(s)"
+msgstr "Выберите тег(и)"
+
+#: front/templates/tour_selector.php:56
+msgid "Select"
+msgstr "Выберите"
+
+#: functions.php:78
+msgid "Holds our tours and tour specific data"
+msgstr "Туры и данные о них"
+
+#: functions.php:84
+msgid "Add New Tour"
+msgstr "Создать тур"
+
+#: functions.php:85
+msgid "Edit Tour"
+msgstr "Редактировать тур"
+
+#: functions.php:86
+msgid "New Tour"
+msgstr "Новый тур"
+
+#: functions.php:87
+msgid "All Tours"
+msgstr "Все туры"
+
+#: functions.php:88
+msgid "View Tours"
+msgstr "Просмотр туров"
+
+#: functions.php:89
+msgid "Search Tour"
+msgstr "Найти рут"
+
+#: functions.php:90
+msgid "No Tours found"
+msgstr "Туры не найдены"
+
+#: functions.php:91
+msgid "No Tours found in the Trash"
+msgstr "В корзине туры не найдены"
+
+#: functions.php:93
+msgid "Tours"
+msgstr "Туры"
+
+#: functions.php:103
+msgid "Holds our tour listings with specific options"
+msgstr "Листинги туров с заданными свойствами"
+
+#: functions.php:109
+msgid "Add New Tour Listing"
+msgstr "Создать листинг туров"
+
+#: functions.php:110
+msgid "Edit Tour Listing"
+msgstr "Редактировать листинг туров"
+
+#: functions.php:111
+msgid "New Tour Listing"
+msgstr "Новый листинг туров"
+
+#: functions.php:112
+msgid "All Tour Listings"
+msgstr "Все листинги туров"
+
+#: functions.php:113
+msgid "View Tour Listings"
+msgstr "Просмотр листингов туров"
+
+#: functions.php:114
+msgid "Search Tour Listing"
+msgstr "Найти листинг туров"
+
+#: functions.php:115
+msgid "No Tour Listings found"
+msgstr "Листинги туров не найдены"
+
+#: functions.php:116
+msgid "No Tour Listings found in the Trash"
+msgstr "В корзине листинги туров не найдены"
+
+#: functions.php:118
+msgid "Tour Listings"
+msgstr "Листинги туров"
+
+#: functions.php:135
+msgid "Default currency"
+msgstr "Валюта по умолчанию"
+
+#: functions.php:146
+msgid "Default city"
+msgstr "Город по умолчанию"
+
+#: functions.php:152
+msgid "Tours per page"
+msgstr "Количество туров на странице"
+
+#: functions.php:160
+msgid "Google maps ID (if any)"
+msgstr "Google maps ID (если есть)"
+
+#: functions.php:166
+msgid "Google reCaptcha public key"
+msgstr "Публичный ключ Google reCaptcha"
+
+#: functions.php:172
+msgid "Google reCaptcha secret key"
+msgstr "Секретный ключ Google reCaptcha"
+
+#: functions.php:178
+msgid "Transport available"
+msgstr "Доступный транспорт"
+
+#: functions.php:180
+msgid "Walking tour"
+msgstr "Пеший тур"
+
+#: functions.php:181
+msgid "Car/Bus"
+msgstr "Авто/автобус"
+
+#: functions.php:182
+msgid "Bike"
+msgstr "Велосипед"
+
+#: functions.php:183
+msgid "Ship/Boat"
+msgstr "Судно/лодка"
+
+#: functions.php:184
+msgid "Horse"
+msgstr "Лошади"
+
+#: functions.php:185
+msgid "Quad Bike"
+msgstr "Квадроцикл"
+
+#: functions.php:186
+msgid "Helicopter"
+msgstr "Вертолет"
+
+#: functions.php:187
+msgid "Other transport"
+msgstr "Другой транспорт"
+
+#: functions.php:229
+msgid "City text"
+msgstr "Город (текст)"
+
+#: functions.php:233
+msgid "City background"
+msgstr "Город (фон)"
+
+#: functions.php:237
+msgid "Duration text"
+msgstr "Продолжительность (текст)"
+
+#: functions.php:241
+msgid "Duration background"
+msgstr "Продолжительность (фон)"
+
+#: functions.php:245
+msgid "Map text"
+msgstr "Карта (текст)"
+
+#: functions.php:249
+msgid "Map background"
+msgstr "Карта (фон)"
+
+#: functions.php:253
+msgid "Price text"
+msgstr "Цена (текст)"
+
+#: functions.php:257
+msgid "Price background"
+msgstr "Цена (фон)"
+
+#: functions.php:261
+msgid "Submit button text"
+msgstr "Кнопка (текст)"
+
+#: functions.php:265
+msgid "Submit button background"
+msgstr "Кнопка (фон)"
+
+#: functions.php:291
+msgid "Manager email"
+msgstr "Почта координатора"
+
+#: functions.php:297
+msgid "Email subscription"
+msgstr "Подпись в письме"
+
+#: functions.php:303
+msgid "Reply to booking (subject)"
+msgstr "Ответ на бронирование (тема)"
+
+#: functions.php:309
+msgid "Reply to booking (message)"
+msgstr "Ответ на бронирование (сообщение)"
+
+#: functions.php:315
+msgid "Reply to booking (screen message)"
+msgstr "Ответ на бронирование (экранное сообщение)"
+
+#: functions.php:355
+msgid "Client name"
+msgstr "Имя клиента"
+
+#: functions.php:360
+msgid "Client email"
+msgstr "Email клиента"
+
+#: functions.php:365
+msgid "Client phone number"
+msgstr "Телефон клиента"
+
+#: functions.php:370
+msgid "Preferred date and time"
+msgstr "Предпочтительная дата и время"
+
+#: functions.php:375
+msgid "Preferred lagguage"
+msgstr "Предпочтительный язык"
+
+#: functions.php:380
+msgid "Number of guests"
+msgstr "Число гостей"
+
+#: functions.php:386
+msgid "Is it your Viber/WatsUp number?"
+msgstr "Есть ли на этом номере Viber/WatsUp?"
+
+#: functions.php:389
+msgid "Viber"
+msgstr ""
+
+#: functions.php:390
+msgid "WatsUp"
+msgstr ""
+
+#: functions.php:395
+msgid "Additional wishes"
+msgstr "Дополнительные пожелания"
+
+#: tour-selector.php:14
+msgid "Tour Selector"
+msgstr "Селектор туров"
+
+#: tour-selector.php:15
+msgid "Selector for tours of different types, cities, etc."
+msgstr "Селектор туров по городу, типу и т.п."
+
+#: tour-selector.php:27
+msgid "New title"
+msgstr "Новый заголовок"
+
+#: tour-selector.php:31
+msgid "Title:"
+msgstr "Заголовок:"

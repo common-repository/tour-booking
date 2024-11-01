@@ -1,0 +1,30 @@
+@media(max-width: 768px) {
+  .tb_single_tour .tb_book_tour {
+  	margin-top: 20px;
+  }
+
+  .tb_single_tour .tb_book_tour,
+  .tb_single_tour .tb_tour_content_container {
+  	width: 100%; 
+  }
+
+	.tb_tour_short {
+    width: calc(50% - 10px);
+	}
+}
+
+@media(max-width: 414px) {
+	.tb_single_tour {
+		padding: 10px;
+	}
+
+	.tb_booking_form input {
+		display: block;
+		margin: 3px 0;
+		width: 100%;
+	}
+
+	.tb_tour_short {
+		width: 100%;
+	}
+}

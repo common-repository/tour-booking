@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tourbooking\n"
+"POT-Creation-Date: 2019-07-04 11:47+0300\n"
+"PO-Revision-Date: 2019-07-04 12:00+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: front/images\n"
+"X-Poedit-SearchPathExcluded-1: front/js\n"
+"X-Poedit-SearchPathExcluded-2: front/css\n"
+"X-Poedit-SearchPathExcluded-3: admin/js\n"
+"X-Poedit-SearchPathExcluded-4: admin/css\n"
+
+#: admin/custom_fields.php:13
+msgid "Price"
+msgstr "Ціна"
+
+#: admin/custom_fields.php:22
+msgid "Duration"
+msgstr "Тривалість"
+
+#: admin/custom_fields.php:24
+msgid "hours"
+msgstr ""
+
+#: admin/custom_fields.php:31
+msgid "City"
+msgstr "Місто"
+
+#: admin/custom_fields.php:40
+msgid "Transport type"
+msgstr "Транспорт"
+
+#: admin/custom_fields.php:48
+msgid "Start location"
+msgstr "Початок"
+
+#: admin/custom_fields.php:57
+msgid "Finish location"
+msgstr "Кінець"
+
+#: admin/custom_fields.php:75
+msgid "Order"
+msgstr "Порядок"
+
+#: admin/custom_fields.php:84
+msgid "Shortcode (copy to page)"
+msgstr "Шорткод (скопіюйте на сторінку)"
+
+#: admin/custom_fields.php:132
+msgid "None"
+msgstr "Немає"
+
+#: admin/custom_fields.php:146
+msgid "Enter your address"
+msgstr "Введіть адресу"
+
+#: admin/options_class.php:42
+msgid "Tour Booking Plugin Options"
+msgstr "Параметри плагіну Tour Booking"
+
+#: admin/options_class.php:44
+#, php-format
+msgid ""
+"Please set up your Tour Booking settings according to your needs. If you "
+"have any questions, need support or would like to customise the plugin, <a "
+"href='%s'>contact us</a>"
+msgstr ""
+"Налаштуйте параметри бронювання турів відповідно до ваших потреб. Якщо у вас "
+"виникли питання, вам потрібна підтримка або ви хочете налаштувати плагін, <a "
+"href='%s'> зв'яжіться з нами </a>"
+
+#: admin/options_class.php:48
+msgid "Tour Booking Settings"
+msgstr "Налаштування Tour Booking "
+
+#: admin/templates/options_page.php:82
+msgid "Options"
+msgstr "Параметри"
+
+#: admin/templates/options_page.php:86
+msgid "Colors"
+msgstr "Кольори"
+
+#: admin/templates/options_page.php:90
+msgid "Messages"
+msgstr "Повідомлення"
+
+#: admin/templates/options_page.php:98 admin/templates/options_page.php:102
+msgid "Save options"
+msgstr "Зберегти параметри"
+
+#: admin/templates/options_page.php:109 admin/templates/options_page.php:113
+msgid "Save colors"
+msgstr "Зберегти кольори"
+
+#: admin/templates/options_page.php:120 admin/templates/options_page.php:124
+msgid "Save messages"
+msgstr "Зберегти повідомлення"
+
+#: ajax.php:66
+msgid "New booking"
+msgstr "Нове бронювання"
+
+#: front/shortcodes.php:42
+msgid "More"
+msgstr "Більше"
+
+#: front/templates/booking_form.php:69
+msgid "Book this tour"
+msgstr "Забронювати тур"
+
+#: front/templates/single_tour.php:27 front/templates/tour_list_template.php:10
+msgid "hrs"
+msgstr "год"
+
+#: front/templates/single_tour.php:31 front/templates/single_tour.php:43
+#: front/templates/tour_list_template.php:11
+msgid "From"
+msgstr "Початок"
+
+#: front/templates/single_tour.php:53
+msgid "To"
+msgstr "Кінець"
+
+#: front/templates/single_tour.php:72
+msgid "Book a tour"
+msgstr "Забронювати тур"
+
+#: front/templates/tour_list_template.php:13
+msgid "Info & Booking"
+msgstr "Забронювати"
+
+#: front/templates/tour_selector.php:29
+msgid "Select city"
+msgstr "Обреріть місто"
+
+#: front/templates/tour_selector.php:36
+msgid "Select transport"
+msgstr "Оберіть транспорт"
+
+#: front/templates/tour_selector.php:43
+msgid "Select tour category"
+msgstr "Оберіть категорію"
+
+#: front/templates/tour_selector.php:50
+msgid "Select tour tag(s)"
+msgstr "Оберіть тег(и)"
+
+#: front/templates/tour_selector.php:56
+msgid "Select"
+msgstr "Оберіть"
+
+#: functions.php:78
+msgid "Holds our tours and tour specific data"
+msgstr "Ваши тури та спеціальні дані"
+
+#: functions.php:84
+msgid "Add New Tour"
+msgstr "Створити тур"
+
+#: functions.php:85
+msgid "Edit Tour"
+msgstr "Редагувати тур"
+
+#: functions.php:86
+msgid "New Tour"
+msgstr "Новий тур"
+
+#: functions.php:87
+msgid "All Tours"
+msgstr "Всі тури"
+
+#: functions.php:88
+msgid "View Tours"
+msgstr "Дивитись тури"
+
+#: functions.php:89
+msgid "Search Tour"
+msgstr "Пошук туру"
+
+#: functions.php:90
+msgid "No Tours found"
+msgstr "Турів не знайдено"
+
+#: functions.php:91
+msgid "No Tours found in the Trash"
+msgstr "В корзині турів не знайдено"
+
+#: functions.php:93
+msgid "Tours"
+msgstr "Тури"
+
+#: functions.php:103
+msgid "Holds our tour listings with specific options"
+msgstr "Ваши лістинги турів та їчні спеціальні дані"
+
+#: functions.php:109
+msgid "Add New Tour Listing"
+msgstr "Створити лістинг турів"
+
+#: functions.php:110
+msgid "Edit Tour Listing"
+msgstr "Редагувати лістинг турів"
+
+#: functions.php:111
+msgid "New Tour Listing"
+msgstr "Новий лістинг турів"
+
+#: functions.php:112
+msgid "All Tour Listings"
+msgstr "Всі лістинги турів"
+
+#: functions.php:113
+msgid "View Tour Listings"
+msgstr "Перегляд лістингів турів"
+
+#: functions.php:114
+msgid "Search Tour Listing"
+msgstr "Пошук лістингів турів"
+
+#: functions.php:115
+msgid "No Tour Listings found"
+msgstr "Лістингів турів не знайдено"
+
+#: functions.php:116
+msgid "No Tour Listings found in the Trash"
+msgstr "В корзині лістингів турів не знайдено"
+
+#: functions.php:118
+msgid "Tour Listings"
+msgstr "Лістинги турів"
+
+#: functions.php:135
+msgid "Default currency"
+msgstr "Валюта за замовчуванням"
+
+#: functions.php:146
+msgid "Default city"
+msgstr "Місто за замовчуванням"
+
+#: functions.php:152
+msgid "Tours per page"
+msgstr "Кількість турів на сторінці"
+
+#: functions.php:160
+msgid "Google maps ID (if any)"
+msgstr "Google maps ID (якщо є)"
+
+#: functions.php:166
+msgid "Google reCaptcha public key"
+msgstr "Відкритий ключ Google reCaptcha"
+
+#: functions.php:172
+msgid "Google reCaptcha secret key"
+msgstr "Секретний ключ Google reCaptcha"
+
+#: functions.php:178
+msgid "Transport available"
+msgstr "Транспорт"
+
+#: functions.php:180
+msgid "Walking tour"
+msgstr "Пішохідний тур"
+
+#: functions.php:181
+msgid "Car/Bus"
+msgstr "Авто/автобус"
+
+#: functions.php:182
+msgid "Bike"
+msgstr "Велосипед"
+
+#: functions.php:183
+msgid "Ship/Boat"
+msgstr "Корабель/човен"
+
+#: functions.php:184
+msgid "Horse"
+msgstr "Коні"
+
+#: functions.php:185
+msgid "Quad Bike"
+msgstr "Квадроцикли"
+
+#: functions.php:186
+msgid "Helicopter"
+msgstr "Гелікоптер"
+
+#: functions.php:187
+msgid "Other transport"
+msgstr "Інший транспорт"
+
+#: functions.php:229
+msgid "City text"
+msgstr "Місто (текст)"
+
+#: functions.php:233
+msgid "City background"
+msgstr "Місто (фон)"
+
+#: functions.php:237
+msgid "Duration text"
+msgstr "Тривалість (текст)"
+
+#: functions.php:241
+msgid "Duration background"
+msgstr "Тривалість (фон)"
+
+#: functions.php:245
+msgid "Map text"
+msgstr "Мапа (текст)"
+
+#: functions.php:249
+msgid "Map background"
+msgstr "Мапа (фон)"
+
+#: functions.php:253
+msgid "Price text"
+msgstr "Ціна (текст)"
+
+#: functions.php:257
+msgid "Price background"
+msgstr "Ціна (фон)"
+
+#: functions.php:261
+msgid "Submit button text"
+msgstr "Кнопка (текст)"
+
+#: functions.php:265
+msgid "Submit button background"
+msgstr "Кнопка (фон)"
+
+#: functions.php:291
+msgid "Manager email"
+msgstr "Електронна пошта координатора турів"
+
+#: functions.php:297
+msgid "Email subscription"
+msgstr "Підпис в електронних листах"
+
+#: functions.php:303
+msgid "Reply to booking (subject)"
+msgstr "Відповідь на бронювання (тема)"
+
+#: functions.php:309
+msgid "Reply to booking (message)"
+msgstr "Відповідь на бронювання (тіло листа)"
+
+#: functions.php:315
+msgid "Reply to booking (screen message)"
+msgstr "Відповідь на бронювання (екранне повідомлення)"
+
+#: functions.php:355
+msgid "Client name"
+msgstr "Ім'я клієнта"
+
+#: functions.php:360
+msgid "Client email"
+msgstr "Електронна пошта клієнта"
+
+#: functions.php:365
+msgid "Client phone number"
+msgstr "Телефон"
+
+#: functions.php:370
+msgid "Preferred date and time"
+msgstr "Бажана дата та час"
+
+#: functions.php:375
+msgid "Preferred lagguage"
+msgstr "Бажана мова"
+
+#: functions.php:380
+msgid "Number of guests"
+msgstr "Кількість гостей"
+
+#: functions.php:386
+msgid "Is it your Viber/WatsUp number?"
+msgstr "Чи є на цьому номері Viber/WatsUp?"
+
+#: functions.php:389
+msgid "Viber"
+msgstr ""
+
+#: functions.php:390
+msgid "WatsUp"
+msgstr ""
+
+#: functions.php:395
+msgid "Additional wishes"
+msgstr "Додаткові побажання"
+
+#: tour-selector.php:14
+msgid "Tour Selector"
+msgstr "Селектор турів"
+
+#: tour-selector.php:15
+msgid "Selector for tours of different types, cities, etc."
+msgstr "Селектор турів за містом, транспортом та ін."
+
+#: tour-selector.php:27
+msgid "New title"
+msgstr "Новий заголовок"
+
+#: tour-selector.php:31
+msgid "Title:"
+msgstr "Заголовок:"
